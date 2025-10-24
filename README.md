@@ -2,17 +2,13 @@
 
 <img src="" alt="Banner or logo" />
 
----
-
-### 👩‍💻 About Me
 Hello! My name is **Nataliya Kuznetsov** — I’m currently studying for an **A.A.S. in Computer Science** at *Columbus State Community College* 🏫.  
 
 I’m deeply interested in **data**, **programming**, and the creative ways technology can make everyday life better.  
 Right now, I’m focusing on **Python** and **Git**, and I love participating in communities and competitions that encourage innovation and collaboration.  
 
----
 
-### 🧰 Tools & Technologies
+### 🧰 Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
