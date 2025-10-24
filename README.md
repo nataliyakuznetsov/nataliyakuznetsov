@@ -1,6 +1,6 @@
 ## Hi there 👋 &nbsp; Welcome to my profile!
 
-<img src="" alt="Banner or logo" />
+<img src="./banner.png"  alt="banner" />
 
 Hello! My name is **Nataliya Kuznetsov** — I’m currently studying for an **A.A.S. in Computer Science** at *Columbus State Community College* 🏫.  
 
