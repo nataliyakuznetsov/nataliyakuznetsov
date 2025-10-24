@@ -2,7 +2,7 @@
 
 <img src="./banner.png"  alt="banner" />
 
-Hello! My name is **Nataliya Kuznetsov** — I’m currently studying for an **A.A.S. in Computer Science** at *Columbus State Community College* 🏫.  
+Hello! My name is **Nataliya Kuznetsov** - I’m currently studying for an **A.A.S. in Computer Science** at *Columbus State Community College* 🏫.  
 
 I’m deeply interested in **data**, **programming**, and the creative ways technology can make everyday life better.  
 Right now, I’m focusing on **Python** and **Git**, and I love participating in communities and competitions that encourage innovation and collaboration.  
