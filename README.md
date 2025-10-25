@@ -4,7 +4,7 @@
 
 Hello! My name is **Nataliya Kuznetsov** - I’m currently studying for an **A.A.S. in Computer Science** at *Columbus State Community College* 🏫.  
 
-I’m deeply interested in **data**, **programming**, and the creative ways technology can make everyday life better.  
+I’m deeply interested in **data**, **coding**, and the creative ways technology can make everyday life better.  
 Right now, I’m focusing on **Python** and **Git**, and I love participating in communities and competitions that encourage innovation and collaboration.  
 
 
@@ -26,5 +26,5 @@ Right now, I’m focusing on **Python** and **Git**, and I love participating in
 
 ⚡ Fun fact: I can write with **both hands at the same time** ✍️  
 
-⭐️ *Thanks for visiting — feel free to connect or collaborate!*
+⭐️ *Thanks for visiting - feel free to connect or collaborate!*
 
